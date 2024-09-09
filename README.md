@@ -1,7 +1,3 @@
-Based on the context of your project and the `Sales_Dashboard.py` file you uploaded, here's a sample `README.md` file for your GitHub repository:
-
----
-
 # Sales Dashboard
 
 This repository contains a Python script for generating and displaying a comprehensive **Sales Dashboard**. The dashboard provides real-time insights into key sales metrics and performance trends, empowering decision-makers to track revenue growth, customer acquisition, and product performance. It is an intuitive tool that helps optimize sales strategies and improve overall outcomes.
